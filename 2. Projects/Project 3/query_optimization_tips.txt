@@ -1,0 +1,40 @@
+Extra Tips for Query Optimization
+
+The project concentrates on your ability to check how a certain query executes and try to analyze what exactly happens before and after it has executed.
+
+Students are supposed to find a simple query and its optimized version for the queries listed in the project description. Consider the following example simple query to get students having course with a low grade :
+
+Select SQL_NO_CACHE s.id, c.crscode, t.grade
+From Student s, Course c, Transcript t
+where s.id=t.studId and 
+	c.crsCode=t.crsCode and
+    	t.grade<"grade850000"
+
+→ Do see that your query uses Fresh set of results each time you query. MySQL often tries to cache the query results and this would not be appropriate for query optimization.
+
+→ Analyze the structure beforehand and guess what operations may have carried out first and why ? State your answers as you analyze.
+
+→ Each time you add a Primary Key to your table, a default index is applied by MySQL on the primary key column. Try removing that index and check the execution time. Then again add that index and check the execution time. This is the crucial part of the analysis.
+
+? Where to find Index in MySQL workbench ?
+
+Click on Table→Course→ hover (I)
+
+
+→ Check the Explain command in order to get your statistics correct
+
+
+ Sample Execution Plan
+
+
+The most important tabs to look for are, Result Grid, Query Stats and Execution Plan. Execution Plans shows you exactly in what order of operations the query is going to be executed. This is a must for every query, simple and optimized, in the Results section.
+
+→ Optionally, you can also plot out a graph for each query showing time taken for simple and optimized queries. This will make it easier to view to what extent your query is optimized.
+
+Links and Extras:
+
+Caching: https://dev.mysql.com/doc/refman/5.7/en/query-cache-configuration.html 
+
+Explain command: https://dev.mysql.com/doc/workbench/en/wb-performance-explain.html 
+
+

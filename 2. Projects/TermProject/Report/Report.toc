@@ -1,0 +1,16 @@
+\contentsline {section}{\numberline {1}Introduction}{4}{section.1}
+\contentsline {section}{\numberline {2}Original Contributions}{4}{section.2}
+\contentsline {section}{\numberline {3}Broader Impact}{4}{section.3}
+\contentsline {section}{\numberline {4}System Architecture}{4}{section.4}
+\contentsline {section}{\numberline {5}Technical Details}{5}{section.5}
+\contentsline {section}{\numberline {6}Related Works}{5}{section.6}
+\contentsline {section}{\numberline {7}Team \& Responsibilities}{5}{section.7}
+\contentsline {section}{\numberline {8}Results}{6}{section.8}
+\contentsline {subsection}{\numberline {8.1}Competition Details}{6}{subsection.8.1}
+\contentsline {subsection}{\numberline {8.2}Detailed Results}{6}{subsection.8.2}
+\contentsline {subsection}{\numberline {8.3}Record Result}{7}{subsection.8.3}
+\contentsline {subsection}{\numberline {8.4}Map Cluster}{7}{subsection.8.4}
+\contentsline {subsection}{\numberline {8.5}Result Marker}{8}{subsection.8.5}
+\contentsline {section}{\numberline {9}Conclusion}{8}{section.9}
+\contentsline {section}{\numberline {10}Appendix}{9}{section.10}
+\contentsline {subsection}{\numberline {10.1}References}{9}{subsection.10.1}

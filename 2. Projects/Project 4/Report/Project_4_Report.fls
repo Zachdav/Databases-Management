@@ -1,0 +1,112 @@
+PWD /Users/zachary/Google Drive/1. University of Georgia/4. Senior Classes UGA/Semester 2/4. Database Management/5. Projects/Project 4/Report
+INPUT /usr/local/texlive/2017/texmf.cnf
+INPUT /usr/local/texlive/2017/texmf-dist/web2c/texmf.cnf
+INPUT /usr/local/texlive/2017/texmf-var/web2c/pdftex/pdflatex.fmt
+INPUT /Users/zachary/Google Drive/1. University of Georgia/4. Senior Classes UGA/Semester 2/4. Database Management/5. Projects/Project 4/Report/Project 4 Report.tex
+OUTPUT /Users/zachary/Google Drive/1. University of Georgia/4. Senior Classes UGA/Semester 2/4. Database Management/5. Projects/Project 4/Report/Project_4_Report.log
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/base/article.cls
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/base/article.cls
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/base/size12.clo
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/base/size12.clo
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/map/fontname/texfonts.map
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/cm/cmr12.tfm
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/setspace/setspace.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/setspace/setspace.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/fancyvrb/fancyvrb.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/fancyvrb/fancyvrb.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/graphics/keyval.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/graphics/keyval.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/graphics/graphicx.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/graphics/graphicx.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/graphics/graphics.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/graphics/graphics.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/graphics/trig.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/graphics/trig.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/graphics-def/pdftex.def
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/graphics-def/pdftex.def
+INPUT /usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/geometry/geometry.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/geometry/geometry.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/ifvtex.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/ifvtex.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/multirow/multirow.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/multirow/multirow.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/tools/array.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/tools/array.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/graphics/color.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/graphics/color.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/graphics-cfg/color.cfg
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/graphics-cfg/color.cfg
+INPUT /Users/zachary/Google Drive/1. University of Georgia/4. Senior Classes UGA/Semester 2/4. Database Management/5. Projects/Project 4/Report/Project_4_Report.aux
+INPUT /Users/zachary/Google Drive/1. University of Georgia/4. Senior Classes UGA/Semester 2/4. Database Management/5. Projects/Project 4/Report/Project_4_Report.aux
+OUTPUT /Users/zachary/Google Drive/1. University of Georgia/4. Senior Classes UGA/Semester 2/4. Database Management/5. Projects/Project 4/Report/Project_4_Report.aux
+INPUT /usr/local/texlive/2017/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+INPUT /usr/local/texlive/2017/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+INPUT /usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/oberdiek/grfext.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/oberdiek/grfext.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/cm/cmr17.tfm
+INPUT /Users/zachary/Google Drive/1. University of Georgia/4. Senior Classes UGA/Semester 2/4. Database Management/5. Projects/Project 4/Report/uga.png
+INPUT /Users/zachary/Google Drive/1. University of Georgia/4. Senior Classes UGA/Semester 2/4. Database Management/5. Projects/Project 4/Report/uga.png
+OUTPUT /Users/zachary/Google Drive/1. University of Georgia/4. Senior Classes UGA/Semester 2/4. Database Management/5. Projects/Project 4/Report/Project_4_Report.pdf
+INPUT /Users/zachary/Google Drive/1. University of Georgia/4. Senior Classes UGA/Semester 2/4. Database Management/5. Projects/Project 4/Report/uga.png
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/cm/cmr12.tfm
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/cm/cmmi12.tfm
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/cm/cmsy10.tfm
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
+INPUT /usr/local/texlive/2017/texmf-var/fonts/map/pdftex/updmap/pdftex.map
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/cm/cmr17.tfm
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
+INPUT /Users/zachary/Google Drive/1. University of Georgia/4. Senior Classes UGA/Semester 2/4. Database Management/5. Projects/Project 4/Report/Project_4_Report.toc
+INPUT /Users/zachary/Google Drive/1. University of Georgia/4. Senior Classes UGA/Semester 2/4. Database Management/5. Projects/Project 4/Report/Project_4_Report.toc
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/cm/cmr8.tfm
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/cm/cmr6.tfm
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/cm/cmmi12.tfm
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/cm/cmmi8.tfm
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/cm/cmmi6.tfm
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/cm/cmsy10.tfm
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/cm/cmsy8.tfm
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/cm/cmsy6.tfm
+OUTPUT /Users/zachary/Google Drive/1. University of Georgia/4. Senior Classes UGA/Semester 2/4. Database Management/5. Projects/Project 4/Report/Project_4_Report.toc
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm
+INPUT /Users/zachary/Google Drive/1. University of Georgia/4. Senior Classes UGA/Semester 2/4. Database Management/5. Projects/Project 4/Report/erd.PNG
+INPUT /Users/zachary/Google Drive/1. University of Georgia/4. Senior Classes UGA/Semester 2/4. Database Management/5. Projects/Project 4/Report/erd.PNG
+INPUT /Users/zachary/Google Drive/1. University of Georgia/4. Senior Classes UGA/Semester 2/4. Database Management/5. Projects/Project 4/Report/erd.PNG
+INPUT /Users/zachary/Google Drive/1. University of Georgia/4. Senior Classes UGA/Semester 2/4. Database Management/5. Projects/Project 4/Report/bcnf.PNG
+INPUT /Users/zachary/Google Drive/1. University of Georgia/4. Senior Classes UGA/Semester 2/4. Database Management/5. Projects/Project 4/Report/bcnf.PNG
+INPUT /Users/zachary/Google Drive/1. University of Georgia/4. Senior Classes UGA/Semester 2/4. Database Management/5. Projects/Project 4/Report/bcnf.PNG
+INPUT /Users/zachary/Google Drive/1. University of Georgia/4. Senior Classes UGA/Semester 2/4. Database Management/5. Projects/Project 4/Report/erd.PNG
+INPUT /Users/zachary/Google Drive/1. University of Georgia/4. Senior Classes UGA/Semester 2/4. Database Management/5. Projects/Project 4/Report/erd.PNG
+INPUT /Users/zachary/Google Drive/1. University of Georgia/4. Senior Classes UGA/Semester 2/4. Database Management/5. Projects/Project 4/Report/Project_4_Report.aux
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb

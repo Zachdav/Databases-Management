@@ -1,0 +1,24 @@
+{
+  "name": "db-final-project",
+  "version": "0.1.0",
+  "description": "Final project for Database Management class.",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "engines": {
+    "node": "8.9.4"
+  },
+  "author": "brandoncanaday",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "cookie-parser": "^1.4.3",
+    "cors": "^2.8.4",
+    "express": "^4.16.2",
+    "express-handlebars": "^3.0.0",
+    "jsonwebtoken": "^8.2.0",
+    "morgan": "^1.9.0",
+    "mysql2": "^1.5.3",
+    "winston": "^2.4.0"
+  }
+}

@@ -1,0 +1,201 @@
+
+/*
+    COLOR SCHEME
+    ---------------
+    primary:    #263238
+    p-light:    #4f5b62
+    p-dark:     #000a12
+    text-p:     #ffffff
+    
+    secondary:  #66bb6a
+    s-light:    #98ee99
+    s-dark:     #338a3e
+    text-s:     #000000
+    ----------------
+    (source: https://material.io/color/#!/?view.left=0&view.right=0&primary.color=263238&secondary.color=FF9E80)
+*/
+
+html, body {
+    background-color: #263238;
+    width: 100vw;
+    height: 100vh;
+    padding: 0;
+    margin: 0;
+}
+
+/* worldmap */
+
+#worldmap {
+    width: 100%;
+    height: 100%;
+}
+
+/* navbar */
+
+.navbar-fixed {
+    position: fixed;
+}
+
+nav {
+    box-shadow: none !important;
+}
+
+nav ul a,
+.sidenav a {
+    color: #fff !important;
+}
+
+nav ul a i,
+.sidenav a i {
+    color: #98ee99 !important;
+}
+
+nav .sidenav-trigger {
+    color: #98ee99;
+}
+
+.sidenav {
+    background: #000a12;
+}
+
+.sidenav .subheader {
+    color: #98ee99 !important;
+}
+
+/* preloader */
+
+.preloader-modal {
+    position: fixed !important;
+    z-index: 9999 !important;
+    display: none;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    padding: 40vh 30px;
+    margin: 0;
+    background: rgba(20, 20, 20, 0.8);
+}
+
+.preloader-modal .header {
+    color: white;
+    margin: 0 auto;
+}
+
+.preloader-modal .preloader-wrapper {
+    display: block;
+    margin: 1.5rem auto;
+}
+
+/* competition popup */
+
+.competition-popup .leaflet-popup-close-button {
+    color: white !important;
+}
+
+.competition-popup .leaflet-popup-content {
+    margin: 0;
+}
+
+.competition-popup .row {
+    margin: 0;
+}
+
+.competition-popup .col {
+    padding: 0;
+}
+
+.competition-popup .card {
+    margin: -2px;
+    border-radius: 12px;
+    box-shadow: none;
+    background: #000a12;
+}
+
+.competition-popup .card .card-content .card-title {
+    color: #98ee99;
+    font-size: 1.8em;
+}
+
+.competition-popup .card .card-action {
+    background: #263238;
+    border-bottom-left-radius: 12px;
+    border-bottom-right-radius: 12px;
+}
+
+.competition-popup .card .card-action a {
+    color: #98ee99 !important;
+}
+
+/* result popup */
+
+.result-popup .leaflet-popup-close-button {
+    color: white !important;
+}
+
+.result-popup .leaflet-popup-content {
+    margin: 0;
+}
+
+.result-popup .row {
+    margin: 0;
+}
+
+.result-popup .col {
+    padding: 0;
+}
+
+.result-popup .card {
+    margin: -2px;
+    border-radius: 12px;
+    box-shadow: none;
+    background: #000a12;
+}
+
+.result-popup .card .card-content .card-title {
+    color: #98ee99;
+    font-size: 1.8em;
+}
+
+.result-popup .card .card-action {
+    background: #263238;
+    border-bottom-left-radius: 12px;
+    border-bottom-right-radius: 12px;
+}
+
+.result-popup .card .card-action a {
+    color: #98ee99 !important;
+}
+
+/* tablesorter overrides */
+
+.table-container {
+    overflow-x: scroll;
+    overflow-y: visible;
+}
+
+th {
+    outline: none !important;
+}
+
+tbody tr:hover {
+    cursor: pointer !important;
+    background: #e0ffe0 !important;
+}
+
+/* materialize overrides */
+
+.tooltipped:hover {
+    cursor: pointer;
+}
+
+.modal.bottom-sheet {
+    max-height: 80% !important;
+    height: 80% !important;
+}
+
+/* miscellaneous */
+
+.competition-link {
+    cursor: pointer;
+}
